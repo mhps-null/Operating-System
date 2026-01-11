@@ -1,0 +1,15 @@
+{
+    "debug.onTaskErrors": "debugAnyway",
+    "files.associations": {
+        "kernel-entrypoint.h": "c",
+        "stddef.h": "c",
+        "stdint.h": "c",
+        "portio.h": "c",
+        "string.h": "c",
+        "framebuffer.h": "c",
+        "disk.h": "c",
+        "keyboard.h": "c",
+        "ext2.h": "c",
+        "interrupt.h": "c"
+    },
+}
